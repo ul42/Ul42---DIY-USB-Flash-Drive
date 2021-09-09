@@ -9,3 +9,4 @@
  Les puces de mémoires FLASH de chez MK sont interchangeables avec celles disponibles en suivant ce lien :
  https://www.lcsc.com/products/NAND-FLASH_11266.html?brand=11930
 
+![PCB_PCB_DIY SD CARD_2021-09-09](https://user-images.githubusercontent.com/85800590/132735171-f89abffd-188c-4e78-8c7b-42b2ffd728b1.png)
