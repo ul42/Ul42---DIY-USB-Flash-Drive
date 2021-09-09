@@ -1,0 +1,2 @@
+# Ul42---DIY-USB-Flash-Drive
+ I created this project following the fact that I did not find a project allowing me to understand, design and manufacture a usb flash drive. This may help some electronitians to understand this object, however so common.  J'ai crée ce projet suite au fait que je n'ai pas trouvé de projet me permettant de comprendre, designer et fabriquer une clée usb. Ceci pourra peu ëtre aider des electronitiens a comprendre cet objet pourtant si courant.
